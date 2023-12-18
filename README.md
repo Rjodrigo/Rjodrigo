@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rjodrigo
 - 👀 I’m interested in, learn to program 
-- 🌱 I’m currently learning, html, css, Java
+- 🌱 I’m currently learning, Java, mysql.
 - 💞️ I’m looking to collaborate on, i'm starting as much as possible
 - 📫 How to reach me, ogirdor171@gmail.com
 
